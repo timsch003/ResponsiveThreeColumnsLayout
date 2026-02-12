@@ -4,4 +4,4 @@
 
 - Content loading through VanillaJS and HTML templates
 
-View here: https://timsch3.github.io/ResponsiveThreeColumnsLayout/
+View here: https://timsch003.github.io/ResponsiveThreeColumnsLayout/
